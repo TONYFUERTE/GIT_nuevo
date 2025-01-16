@@ -2,9 +2,11 @@ archivo md
 # Título h1
 ## Título h2
 ###### Hasta h6
+
 Texto plano
-Texto en cursiva o italic* 
-__Texto en cursiva_
+
+*Texto en cursiva o italic* 
+_Texto en cursiva_
 
 **Negrita o bold, sin dejar espacios al principio ni al final**
   
