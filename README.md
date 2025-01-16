@@ -6,6 +6,7 @@ archivo md
 Texto plano
 
 *Texto en cursiva o italic* 
+
 _Texto en cursiva_
 
 **Negrita o bold, sin dejar espacios al principio ni al final**
