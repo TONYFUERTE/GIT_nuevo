@@ -1,0 +1,6 @@
+#ignoramos la carpeta imagenes y todos los archivos que están en su interior
+imagenes/  
+#ignora un archivo en concreto
+archivo_ig.txt
+#ignora todos los archivos txt
+#*.txt
